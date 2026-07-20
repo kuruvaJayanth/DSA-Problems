@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -22,4 +24,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
