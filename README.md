@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0796-rotate-string](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0796-rotate-string) |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0796-rotate-string) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
