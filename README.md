@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0485-max-consecutive-ones) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
 |  |
@@ -72,14 +75,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
