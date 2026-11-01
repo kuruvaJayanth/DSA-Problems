@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
