@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0283-move-zeroes) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0268-missing-number) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -96,4 +99,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
