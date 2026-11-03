@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0796-rotate-string) |
+| [0925-long-pressed-name](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0392-is-subsequence) |
+| [0925-long-pressed-name](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Trie
