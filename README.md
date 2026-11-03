@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0189-rotate-array) |
@@ -124,5 +125,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/kuruvaJayanth/DSA-Problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
